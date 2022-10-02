@@ -5,7 +5,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace AnimalFarm_03
+namespace problem_3
 {
     class Chiken
     {
